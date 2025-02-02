@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "b603e17007dee830",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc2f8e0c32e19266",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f18ee48be4b09b3f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a8218c297ff95c13",
+    "type": "split",
+    "children": [
+      {
+        "id": "81f8f2cee65fda44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53b9b1c918c525a7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "54ecc1bd7f8670fd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "高品味的/番剧.md"
+              },
+              "icon": "lucide-list",
+              "title": "番剧 的大纲"
+            }
+          },
+          {
+            "id": "6c72298b703b5804",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          },
+          {
+            "id": "f8710009622f0f76",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "869f50ccf611e183",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "4414ff3e537558ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "1faa646efc882908",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1e01957ea10f2de",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "travel/2024 12 日本/2024-12-17（火）.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2024-12-17（火） 的反向链接列表"
+            }
+          },
+          {
+            "id": "616c3311a5b5e65b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "853854ec249c5cff",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "98ff4cf08b4428a5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "f18ee48be4b09b3f",
+  "lastOpenFiles": [
+    "Travel/2024 12 日本/2024-12-29 大阪逛街.md",
+    "Travel/2024 12 日本/ref/うなぎの中庄.jpg",
+    "Others/1-30 初中同学聚会.md",
+    "Others",
+    "Travel/2024 12 日本/一些计划.md",
+    "高品味的/番剧.md",
+    "高品味的/读书.md",
+    "高品味的/电影.md",
+    "Travel/2024 12 日本/2024-12-27 大阪.md",
+    "Travel/2024 12 日本/2024-12-28 宇治.md",
+    "Travel/2024 12 日本/2024-12-17（火）.md",
+    "Travel/2024 12 日本/2024-12-18（水）.md",
+    "Travel/2024 12 日本/2024-12-15（日）.md",
+    "抹茶面.md",
+    "Travel/2024 12 日本/ref/抹茶面.jpg",
+    "Travel/2024 12 日本/ref/蛋黄酱金枪鱼三明治是人类的智慧结晶.png",
+    "Travel/2024 12 日本/2024-12-11（水）.md",
+    "Travel/2024 12 日本/2024-12-12（木）.md",
+    "Travel/2024 12 日本/2024-12-13（金）.md",
+    "2024-12-12.md",
+    "Travel/2024 12 日本/2024-12-14（土）.md",
+    "2024-12-11.md",
+    "Travel/2024 12 日本/2024-12-16（月）.md",
+    "Travel/2024 12 日本/ref/于丰桥站.jpg",
+    "Travel/2024 12 日本/ref/丰桥吉田神社的绘马.jpg",
+    "Travel/2024 12 日本/ref/咖喱乌冬.jpg",
+    "Travel/2024 12 日本/ref/あおいや.jpg",
+    "travel/2024 12 日本/ref/IMG_3641.jpg.sb-09d23bcb-mXmr63",
+    "travel/2024 12 日本/ref/IMG_3582.jpg.sb-09d23bcb-uljofH",
+    "meeting/日本 2024-12.md",
+    "Travel/2024 12 日本/ref/河口湖早餐.jpg",
+    "Travel/2024 12 日本/ref/石松饺子.jpg",
+    "未命名/未命名",
+    "高品味的",
+    "meeting/RV.md",
+    "meeting/Yusuke Imoto.md",
+    "Travel/2024 12 日本/ref/うなぎいけだ.jpg",
+    "travel/2024 12 日本/ref/IMG_3426.jpg.sb-3c903dc7-boNLrM",
+    "travel/2024 12 日本/ref/やぶ.jpg.sb-3c903dc7-k3XM14",
+    "travel/2024 12 日本/ref/台场·蘸面.jpg.sb-3c903dc7-PtzabV",
+    "travel/2024 12 日本/ref/汤咖喱.jpg.sb-3c903dc7-ttro6x",
+    "IMG_3331.heic",
+    "未命名.canvas",
+    "2024-12-20.md",
+    "RV.md",
+    "2024-12-19.md"
+  ]
+}
