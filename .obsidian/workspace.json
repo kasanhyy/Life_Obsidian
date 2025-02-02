@@ -11,10 +11,14 @@
             "id": "f18ee48be4b09b3f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Travel/2024 12 日本/2024-12-29 大阪逛街.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "2024-12-29 大阪逛街"
             }
           }
         ]
@@ -157,16 +161,27 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Travel/2024 12 日本/2024-12-29 大阪逛街.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "2024-12-29 大阪逛街 的大纲"
+            }
+          },
+          {
+            "id": "d267583f078f4b5f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -179,11 +194,25 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-regex-pipeline:Regex Rulesets": false
     }
   },
   "active": "f18ee48be4b09b3f",
   "lastOpenFiles": [
+    "Travel/2024 12 日本/2024-12-28 宇治.md",
+    "Travel/2024 12 日本/2024-12-27 大阪.md",
+    "Travel/2024 12 日本/2024-12-18（水）.md",
+    "Travel/2024 12 日本/2024-12-17（火）.md",
+    "Travel/2024 12 日本/2024-12-16（月）.md",
+    "Travel/2024 12 日本/2024-12-15（日）.md",
+    "Travel/2024 12 日本/2024-12-14（土）.md",
+    "Travel/2024 12 日本/2024-12-13（金）.md",
+    "Travel/2024 12 日本/2024-12-12（木）.md",
+    "Travel/2024 12 日本/2024-12-11（水）.md",
+    "Travel/2024 12 日本/ref/蛋黄酱金枪鱼三明治是人类的智慧结晶.png",
     "Travel/2024 12 日本/2024-12-29 大阪逛街.md",
     "Travel/2024 12 日本/ref/うなぎの中庄.jpg",
     "Others/1-30 初中同学聚会.md",
@@ -192,21 +221,10 @@
     "高品味的/番剧.md",
     "高品味的/读书.md",
     "高品味的/电影.md",
-    "Travel/2024 12 日本/2024-12-27 大阪.md",
-    "Travel/2024 12 日本/2024-12-28 宇治.md",
-    "Travel/2024 12 日本/2024-12-17（火）.md",
-    "Travel/2024 12 日本/2024-12-18（水）.md",
-    "Travel/2024 12 日本/2024-12-15（日）.md",
     "抹茶面.md",
     "Travel/2024 12 日本/ref/抹茶面.jpg",
-    "Travel/2024 12 日本/ref/蛋黄酱金枪鱼三明治是人类的智慧结晶.png",
-    "Travel/2024 12 日本/2024-12-11（水）.md",
-    "Travel/2024 12 日本/2024-12-12（木）.md",
-    "Travel/2024 12 日本/2024-12-13（金）.md",
     "2024-12-12.md",
-    "Travel/2024 12 日本/2024-12-14（土）.md",
     "2024-12-11.md",
-    "Travel/2024 12 日本/2024-12-16（月）.md",
     "Travel/2024 12 日本/ref/于丰桥站.jpg",
     "Travel/2024 12 日本/ref/丰桥吉田神社的绘马.jpg",
     "Travel/2024 12 日本/ref/咖喱乌冬.jpg",
